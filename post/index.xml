@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Romain Leclair</title>
+    <link>https://romainleclair.github.io/RomainLeclair_Portfolio/post/</link>
+    <description>Recent content in Projects on Romain Leclair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://romainleclair.github.io/RomainLeclair_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Data Science Salary Estimator</title>
+      <link>https://romainleclair.github.io/RomainLeclair_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://romainleclair.github.io/RomainLeclair_Portfolio/post/project-1/</guid>
+      <description>I try to create a tool that estimates data Science salaries for learn Scraped over 1000 job description in USA from glassdor using python and selenium Data Cleaning and Engineered features Searching best Model to estimare average Salary Built a client API with Flask    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2 : R_Shiny Apllication</title>
+      <link>https://romainleclair.github.io/RomainLeclair_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://romainleclair.github.io/RomainLeclair_Portfolio/post/project-2/</guid>
+      <description>Within the university framework I create a simple RShiny App to analyze the climate in different cities of France. We use a csv file for year 1973 to 20116 to do a simple analysis. The goal of this project is to understand the basics of R_Shiny. To run this App, you just need to open the &amp;ldquo;Global.R&amp;rdquo; and run it.    Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
